@@ -1,4 +1,4 @@
-# Flathub Mobile
+# Flathub On Mobile
 
 If you are looking forward to a OSTree/Flatpak/GNOME community-driven phone OS, that makes two of us but, how far are we?
 
@@ -8,7 +8,7 @@ This weekend project aims to provide a bit more clarity.
 
 ## Project
 
-Given a refurbished Moto G4 Play phone and a custom postmarketOS image containing only Phosh, Terminal and Flatpak, how close can one get a regular-user phone workflow?
+Given a refurbished Moto G4 Play phone and a custom postmarketOS image containing only Phosh, Terminal and Flatpak, how close can I get to my regular phone workflow?
 
 ## Criteria
 
@@ -62,7 +62,7 @@ Given a refurbished Moto G4 Play phone and a custom postmarketOS image containin
 |Issue|Description|Blocker|Notes|
 |:--- |---|---|---|
 |Won't fit in screen|The application window won't shrink enough to fit inside the device screen, or main features rely on GTK widgets that won't shrink|YES|A few attempts to fix GtkFileChooser, both for [EndlessOS](https://github.com/endlessm/gtk/commits/eos3.1) and Librem|
-|Small popovers|Using popovers for menu options works great desktop but requires too much dexterity|NO| |
+|Small popovers|Using popovers for menu options works great in the desktop but requires too much dexterity on small devices|NO| |
 |Buttons in the headerbar|Main features require users to use the secondary hand which occludes the content and it feels awkward|NO| |
 
 ## Workflows
