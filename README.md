@@ -73,7 +73,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |Adopter|Interact with developers and help testing applications|YES|Epiphany Fractal Notorious Flatseal| | |
 |Enthusiast|Situational use and help promote the vision|YES|GFeeds Lollypop Shortwave Podcasts| |These applications are great examples|
 |Regular|Personal use for basic tasks|NO|Clocks Calculator Contacts Authenticator|Geary Nautilus Documents EoG SoundRecorder Cheese Screenshot Glide| |
-|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird Fragments|Flashlight Usage Tangram Tootle Weather Maps Peek| |
+|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird|Flashlight Usage Tangram Tootle Weather Maps Peek Fragments| |
 
 NOTE: Each workflow requires the previous workflow to be supported.
 
