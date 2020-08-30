@@ -8,7 +8,7 @@ This weekend project aims to provide a bit more clarity.
 
 ## Project
 
-Given a refurbished Moto G4 Play phone and a custom postmarketOS image containing only Phosh, Terminal and Flatpak, how close can I get to my regular phone workflow?
+Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_play-8104.php) phone and a custom postmarketOS image containing only Phosh, Terminal and Flatpak, how close can I get to my regular phone workflow?
 
 ## Criteria
 
