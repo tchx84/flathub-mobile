@@ -18,37 +18,37 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 
 ## Evaluation
 
-|AppId|Category|GTK|Mobile|Flathub|Issues|Notes|
-|:--- |---|---|---|---|---|---|
-|[org.gnome.Epiphany](https://flathub.org/apps/details/org.gnome.Epiphany)|Internet| | | | |Videos performance|
-|[org.gnome.Geary](https://flathub.org/apps/details/org.gnome.Geary)|Internet| |FAIL| |Won't fit in screen| |
-|[org.librehunt.Organizer](https://flathub.org/apps/details/org.librehunt.Organizer)|Documents| | | | |Only for moving files|
-|[org.gnome.Documents](https://flathub.org/apps/details/org.gnome.Documents)|Documents| |FAIL| |Won't start| |
-|[org.gnome.Evince](https://flathub.org/apps/details/org.gnome.Evince)|Documents| |FAIL| |Won't fit in screen| |
-|[org.gnome.Fractal](https://flathub.org/apps/details/org.gnome.Fractal)|Social| | | | | |
-|[re.sonny.Tangram](https://flathub.org/apps/details/re.sonny.Tangram)|Social| |FAIL| |Won't fit in screen|For non-GTK messaging applications|
-|[uk.co.ibboard.cawbird](https://flathub.org/apps/details/uk.co.ibboard.cawbird)|Social| | | | | |
-|[com.github.bleakgrey.tootle](https://flathub.org/apps/details/com.github.bleakgrey.tootle)|Social| |FAIL| |Won't respond| |
-|[org.gnome.clocks](https://flathub.org/apps/details/org.gnome.clocks)|Information| | | | | |
-|[org.gnome.Weather](https://flathub.org/apps/details/org.gnome.Weather)|Information| |FAIL| |Won't fit in screen| |
-|[org.gabmus.gfeeds](https://flathub.org/apps/details/org.gabmus.gfeeds)|Information| | | | | |
-|[org.gnome.eog](https://flathub.org/apps/details/org.gnome.eog)|Image| |FAIL| |Won't fit in screen| 
-|[org.gnome.Lollypop](https://flathub.org/apps/details/org.gnome.Lollypop)|Audio| | | | | |
-|[de.haeckerfelix.Shortwave](https://flathub.org/apps/details/de.haeckerfelix.Shortwave)|Audio| | | | | |
-|[org.gnome.Podcasts](https://flathub.org/apps/details/org.gnome.Podcasts)|Audio| | | | | |
-|[org.gnome.SoundRecorder](https://flathub.org/apps/details/org.gnome.SoundRecorder)|Audio| |FAIL| |Won't fit in screen|Check nightly version|
-|[com.github.Johnn3y.Forklift](https://flathub.org/apps/details/com.github.Johnn3y.Forklift)|Video| | | | | |
-|[org.gnome.gitlab.YaLTeR.VideoTrimmer](https://flathub.org/apps/details/org.gnome.gitlab.YaLTeR.VideoTrimmer)|Video| |FAIL| |Won't show file chooser| |
-|[net.baseart.Glide](https://flathub.org/apps/details/net.baseart.Glide)|Video| |FAIL| |Won't fit in screen| |
-|[org.gnome.Cheese](https://flathub.org/apps/details/org.gnome.Cheese)|Video| |FAIL| |Won't fit in screen| |
-|[org.gabmus.notorious](https://flathub.org/apps/details/org.gabmus.notorious)|Utilities| | | | | |
-|[com.uploadedlobster.peek](https://flathub.org/apps/details/com.uploadedlobster.peek)|Utilities| |FAIL| |Won't fit in screen| |
-|[org.gnome.Calculator](https://flathub.org/apps/details/org.gnome.Calculator)|Utilities| | | | | |
-|[org.gnome.Contacts](https://flathub.org/apps/details/org.gnome.Contacts)|Utilities| | | | | |
-|[org.gnome.Maps](https://flathub.org/apps/details/org.gnome.Maps)|Utilities| |FAIL| |Won't fit in screen| |
-|[com.github.tchx84.Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal)|Utilities| | | | | |
-|[com.github.bilelmoussaoui.Authenticator](https://flathub.org/apps/details/com.github.bilelmoussaoui.Authenticator)|Utilities| | | | | |
-|[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities| |FAIL| |Won't fit in screen| |
+|AppId|Category|Issues|Notes|
+|:--- |---|---|---|
+|[org.gnome.Epiphany](https://flathub.org/apps/details/org.gnome.Epiphany)|Internet| |Videos performance|
+|[org.gnome.Geary](https://flathub.org/apps/details/org.gnome.Geary)|Internet|Won't fit in screen| |
+|[org.librehunt.Organizer](https://flathub.org/apps/details/org.librehunt.Organizer)|Documents| |Only for moving files|
+|[org.gnome.Documents](https://flathub.org/apps/details/org.gnome.Documents)|Documents|Won't start| |
+|[org.gnome.Evince](https://flathub.org/apps/details/org.gnome.Evince)|Documents|Won't fit in screen| |
+|[org.gnome.Fractal](https://flathub.org/apps/details/org.gnome.Fractal)|Social| | |
+|[re.sonny.Tangram](https://flathub.org/apps/details/re.sonny.Tangram)|Social|Won't fit in screen|For non-GTK messaging applications|
+|[uk.co.ibboard.cawbird](https://flathub.org/apps/details/uk.co.ibboard.cawbird)|Social| | |
+|[com.github.bleakgrey.tootle](https://flathub.org/apps/details/com.github.bleakgrey.tootle)|Social|Won't respond| |
+|[org.gnome.clocks](https://flathub.org/apps/details/org.gnome.clocks)|Information| | |
+|[org.gnome.Weather](https://flathub.org/apps/details/org.gnome.Weather)|Information|Won't fit in screen| |
+|[org.gabmus.gfeeds](https://flathub.org/apps/details/org.gabmus.gfeeds)|Information| | |
+|[org.gnome.eog](https://flathub.org/apps/details/org.gnome.eog)|Image|Won't fit in screen| 
+|[org.gnome.Lollypop](https://flathub.org/apps/details/org.gnome.Lollypop)|Audio| | |
+|[de.haeckerfelix.Shortwave](https://flathub.org/apps/details/de.haeckerfelix.Shortwave)|Audio| | |
+|[org.gnome.Podcasts](https://flathub.org/apps/details/org.gnome.Podcasts)|Audio| | |
+|[org.gnome.SoundRecorder](https://flathub.org/apps/details/org.gnome.SoundRecorder)|Audio|Won't fit in screen|Check nightly version|
+|[com.github.Johnn3y.Forklift](https://flathub.org/apps/details/com.github.Johnn3y.Forklift)|Video| | |
+|[org.gnome.gitlab.YaLTeR.VideoTrimmer](https://flathub.org/apps/details/org.gnome.gitlab.YaLTeR.VideoTrimmer)|Video|Won't show file chooser| |
+|[net.baseart.Glide](https://flathub.org/apps/details/net.baseart.Glide)|Video|Won't fit in screen| |
+|[org.gnome.Cheese](https://flathub.org/apps/details/org.gnome.Cheese)|Video|Won't fit in screen| |
+|[org.gabmus.notorious](https://flathub.org/apps/details/org.gabmus.notorious)|Utilities| | |
+|[com.uploadedlobster.peek](https://flathub.org/apps/details/com.uploadedlobster.peek)|Utilities|Won't fit in screen| |
+|[org.gnome.Calculator](https://flathub.org/apps/details/org.gnome.Calculator)|Utilities| | |
+|[org.gnome.Contacts](https://flathub.org/apps/details/org.gnome.Contacts)|Utilities| | |
+|[org.gnome.Maps](https://flathub.org/apps/details/org.gnome.Maps)|Utilities|Won't fit in screen| |
+|[com.github.tchx84.Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal)|Utilities| | |
+|[com.github.bilelmoussaoui.Authenticator](https://flathub.org/apps/details/com.github.bilelmoussaoui.Authenticator)|Utilities| | |
+|[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities|Won't fit in screen| |
 
 ### Missing on Flathub
 
