@@ -49,6 +49,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[com.github.tchx84.Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal)|Utilities| | |
 |[com.github.bilelmoussaoui.Authenticator](https://flathub.org/apps/details/com.github.bilelmoussaoui.Authenticator)|Utilities| | |
 |[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities|Won't fit in screen| |
+|[com.frac_tion.teleport](https://flathub.org/apps/details/com.frac_tion.teleport)|Utilities|Won't fit in screen| |
 
 ### Missing on Flathub
 
@@ -73,7 +74,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |Adopter|Interact with developers and help testing applications|YES|Epiphany Fractal Notorious Flatseal| | |
 |Enthusiast|Situational use and help promote the vision|YES|GFeeds Lollypop Shortwave Podcasts| |These applications are great examples|
 |Regular|Personal use for basic tasks|NO|Clocks Calculator Contacts Authenticator|Geary Nautilus Documents EoG SoundRecorder Cheese Screenshot Glide| |
-|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird|Evince Flashlight Usage Tangram Tootle Weather Maps Peek Fragments VideoTrimmer| |
+|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird|Evince Flashlight Usage Tangram Tootle Weather Maps Peek Fragments VideoTrimmer Teleport| |
 
 NOTE: Each workflow requires the previous workflow to be supported.
 

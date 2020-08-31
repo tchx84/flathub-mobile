@@ -83,4 +83,5 @@ $ sudo flatpak --installation=extra install flathub org.gnome.Calculator
 $ sudo flatpak --installation=extra install flathub org.gnome.eog
 $ sudo flatpak --installation=extra install flathub de.haeckerfelix.Fragments
 $ sudo flatpak --installation=extra install flathub com.github.bilelmoussaoui.Authenticator
+$ sudo flatpak --installation=extra install flathub com.frac_tion.teleport
 ```
