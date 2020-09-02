@@ -32,7 +32,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[org.gnome.clocks](https://flathub.org/apps/details/org.gnome.clocks)|Information| | |
 |[org.gnome.Weather](https://flathub.org/apps/details/org.gnome.Weather)|Information|Won't fit in screen| |
 |[org.gabmus.gfeeds](https://flathub.org/apps/details/org.gabmus.gfeeds)|Information| | |
-|[org.gnome.Calendar](https://flathub.org/apps/details/org.gnome.Calendar)|Information|Won't fit in screen| |
+|[org.gnome.Calendar](https://flathub.org/apps/details/org.gnome.Calendar)|Information|Won't fit in screen|Not touchscreen friendly|
 |[org.gnome.eog](https://flathub.org/apps/details/org.gnome.eog)|Image|Won't fit in screen| 
 |[org.gnome.Lollypop](https://flathub.org/apps/details/org.gnome.Lollypop)|Audio| | |
 |[de.haeckerfelix.Shortwave](https://flathub.org/apps/details/de.haeckerfelix.Shortwave)|Audio| | |
