@@ -63,7 +63,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 
 |Issue|Description|Blocker|Notes|
 |:--- |---|---|---|
-|Won't fit in screen|The application window won't shrink enough to fit inside the device screen, or main features rely on GTK widgets that won't shrink|YES|A few attempts to fix GtkFileChooser, both for [EndlessOS](https://github.com/endlessm/gtk/commits/eos3.5) and [Librem](https://source.puri.sm/Librem5/gtk/-/commits/librem5-3-24-8)|
+|Won't fit in screen|The application window won't shrink enough to fit inside the device screen, or main features rely on GTK widgets that won't shrink|YES|A few attempts to fix GtkFileChooser, both for [EndlessOS](https://github.com/endlessm/gtk/commits/eos3.5) and [Librem](https://source.puri.sm/Librem5/gtk/-/commits/librem5-3-24-8). I authored EndlessOS fixes, I so revived these [here](https://gitlab.gnome.org/tchx84/gtk/-/tree/gtk-flathub-mobile)|
 |Small popovers|Using popovers for menu options works great in the desktop but requires too much dexterity on small devices|NO| |
 |Buttons in the headerbar|Main features require users to use the secondary hand which occludes the content and it feels awkward|NO| |
 
