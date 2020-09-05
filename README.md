@@ -24,7 +24,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[org.gnome.Geary](https://flathub.org/apps/details/org.gnome.Geary)|Internet|Won't fit in screen|Reduce content min-width|
 |[org.librehunt.Organizer](https://flathub.org/apps/details/org.librehunt.Organizer)|Documents| | |
 |[org.gnome.Documents](https://flathub.org/apps/details/org.gnome.Documents)|Documents|Won't start|Reduce content min-width|
-|[org.gnome.Evince](https://flathub.org/apps/details/org.gnome.Evince)|Documents|Won't fit in screen|Reduce content min-width and use GtkFileChooserNative|
+|[org.gnome.Evince](https://flathub.org/apps/details/org.gnome.Evince)|Documents|Won't fit in screen|Reduce content min-width and port to GtkFileChooserNative|
 |[org.gnome.Fractal](https://flathub.org/apps/details/org.gnome.Fractal)|Social| | |
 |[re.sonny.Tangram](https://flathub.org/apps/details/re.sonny.Tangram)|Social|Won't fit in screen|Reduce headerbar min-width|
 |[uk.co.ibboard.cawbird](https://flathub.org/apps/details/uk.co.ibboard.cawbird)|Social| | |
@@ -43,13 +43,13 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[net.baseart.Glide](https://flathub.org/apps/details/net.baseart.Glide)|Video|Won't fit in screen| |
 |[org.gnome.Cheese](https://flathub.org/apps/details/org.gnome.Cheese)|Video|Won't fit in screen|Reduce controls min-width|
 |[org.gabmus.notorious](https://flathub.org/apps/details/org.gabmus.notorious)|Utilities| | |
-|[com.uploadedlobster.peek](https://flathub.org/apps/details/com.uploadedlobster.peek)|Utilities|Won't fit in screen|Use GtkFileChoserNative|
+|[com.uploadedlobster.peek](https://flathub.org/apps/details/com.uploadedlobster.peek)|Utilities|Won't fit in screen|Port to GtkFileChooserNative|
 |[org.gnome.Calculator](https://flathub.org/apps/details/org.gnome.Calculator)|Utilities| | |
 |[org.gnome.Contacts](https://flathub.org/apps/details/org.gnome.Contacts)|Utilities| | |
 |[org.gnome.Maps](https://flathub.org/apps/details/org.gnome.Maps)|Utilities|Won't fit in screen|Reduce headerbar min-width|
 |[com.github.tchx84.Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal)|Utilities| | |
 |[com.github.bilelmoussaoui.Authenticator](https://flathub.org/apps/details/com.github.bilelmoussaoui.Authenticator)|Utilities| | |
-|[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities|Won't fit in screen|Use GtkFileChooserNative|
+|[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities|Won't fit in screen|Port to GtkFileChooserNative|
 |[com.frac_tion.teleport](https://flathub.org/apps/details/com.frac_tion.teleport)|Utilities|Won't fit in screen|Reduce content min-width|
 
 ### Missing on Flathub
@@ -83,7 +83,7 @@ NOTE: This reflects my workflows, yours might differ, and that's OK.
 
 ## Low-hanging fruits
 
-1. Use GtkFileChooser for portal support and, potentially, benefitting from downstream GTK patches.
+1. Use GtkFileChooserNative for portal support and, potentially, benefitting from downstream GTK patches.
 2. Extra padding on menu items (see this [example](https://github.com/tchx84/Flatseal/pull/132).
 3. Whenever possible, reduce arbitrary width-requests to 360.
 
