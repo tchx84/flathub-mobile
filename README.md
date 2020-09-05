@@ -84,7 +84,7 @@ NOTE: This reflects my workflows, yours might differ, and that's OK.
 ## Low-hanging fruits
 
 1. Use GtkFileChooserNative for portal support and, potentially, benefitting from downstream GTK patches.
-2. Extra padding on menu items (see this [example](https://github.com/tchx84/Flatseal/pull/132).
+2. Extra padding on menu items (see this [example](https://github.com/tchx84/Flatseal/pull/132)).
 3. Whenever possible, reduce arbitrary width-requests to 360.
 
 ## Something missing?
