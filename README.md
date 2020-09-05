@@ -81,6 +81,12 @@ NOTE: Each workflow requires the previous workflow to be supported.
 
 NOTE: This reflects my workflows, yours might differ, and that's OK.
 
+## Low-hanging fruits
+
+1. Use GtkFileChooser for portal support and, potentially, benefitting from downstream GTK patches.
+2. Extra padding on menu items (see this [example](https://github.com/tchx84/Flatseal/pull/132).
+3. Whenever possible, reduce arbitrary width-requests to 360.
+
 ## Something missing?
 
 If you have any suggestion just send a PR to [this](https://github.com/tchx84/flathub-mobile) repo.
