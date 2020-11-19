@@ -50,7 +50,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[com.github.tchx84.Flatseal](https://flathub.org/apps/details/com.github.tchx84.Flatseal)|Utilities| | |
 |[com.github.bilelmoussaoui.Authenticator](https://flathub.org/apps/details/com.github.bilelmoussaoui.Authenticator)|Utilities| | |
 |[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities|Won't fit in screen|Port to GtkFileChooserNative|
-|[com.frac_tion.teleport](https://flathub.org/apps/details/com.frac_tion.teleport)|Utilities|Won't fit in screen|Reduce content min-width|
+|[com.frac_tion.teleport](https://flathub.org/apps/details/com.frac_tion.teleport)|Utilities| |Works on master|
 
 ### Missing on Flathub
 
@@ -76,8 +76,8 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |Developer|Develop Flatpak applications|YES|Terminal Flatpak| |Develop on computer, build on the phone, e.g. using ssh|
 |Adopter|Interact with developers and help testing applications|YES|Epiphany Fractal Notorious Flatseal| | |
 |Enthusiast|Situational use and help promote the vision|YES|GFeeds Lollypop Shortwave Podcasts| |These applications are great examples|
-|Regular|Personal use for basic tasks|NO|Clocks Calculator Contacts SoundRecorder Screenshot|Nautilus Documents Cheese Calendar| |
-|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird Authenticator Maps Usage|Geary Evince EoG Glide Flashlight Tangram Tootle Weather Peek Fragments VideoTrimmer Teleport| |
+|Regular|Personal use for basic tasks|NO|Clocks Calculator Contacts SoundRecorder Screenshot|Nautilus Documents Cheese Calendar Teleport| |
+|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird Authenticator Maps Usage|Geary Evince EoG Glide Flashlight Tangram Tootle Weather Peek Fragments VideoTrimmer| |
 
 NOTE: Each workflow requires the previous workflow to be supported.
 
