@@ -51,13 +51,13 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[com.github.bilelmoussaoui.Authenticator](https://flathub.org/apps/details/com.github.bilelmoussaoui.Authenticator)|Utilities| | |
 |[de.haeckerfelix.Fragments](https://flathub.org/apps/details/de.haeckerfelix.Fragments)|Utilities|Won't fit in screen|Port to GtkFileChooserNative|
 |[com.frac_tion.teleport](https://flathub.org/apps/details/com.frac_tion.teleport)|Utilities| |Works on master|
+|[dev.tchx84.Portfolio](https://flathub.org/apps/details/dev.tchx84.Portfolio)|Utilities| | |
 
 ### Missing on Flathub
 
 |AppId|Category|Issues|Notes|
 |:--- |---|---|---|
 |[Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot)|Utilities| |Only available on nightly|
-|[Nautilus](https://gitlab.gnome.org/GNOME/nautilus)|Utilities|Won't fit in screen| |
 |[Flashlight](https://puri.sm/posts/easy-librem-5-app-development-flashlight/)|Utilities| |Can't find it anywhere|
 |[Usage](https://gitlab.gnome.org/GNOME/gnome-usage)|Utilities| |Only available on nightly|
 
@@ -76,7 +76,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |Developer|Develop Flatpak applications|YES|Terminal Flatpak| |Develop on computer, build on the phone, e.g. using ssh|
 |Adopter|Interact with developers and help testing applications|YES|Epiphany Fractal Notorious Flatseal| | |
 |Enthusiast|Situational use and help promote the vision|YES|GFeeds Lollypop Shortwave Podcasts| |These applications are great examples|
-|Regular|Personal use for basic tasks|NO|Clocks Calculator Contacts SoundRecorder Screenshot|Nautilus Documents Cheese Calendar| |
+|Regular|Personal use for basic tasks|NO|Portfolio Clocks Calculator Contacts SoundRecorder Screenshot|Documents Cheese Calendar| |
 |Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird Authenticator Maps Usage Teleport|Geary Evince EoG Glide Flashlight Tangram Tootle Weather Peek Fragments VideoTrimmer| |
 
 NOTE: Each workflow requires the previous workflow to be supported.
