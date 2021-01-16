@@ -34,6 +34,10 @@ $ sudo mkdir -p /etc/flatpak/installations.d
 $ sudo vi /etc/flatpak/installations.d/extra.conf # see content below
 
 $ sudo flatpak --installation=extra remote-add flathub https://flathub.org/repo/flathub.flatpakrepo
+
+# After Flatseal is installed
+
+$ flatpak --user override --filesystem=host com.github.tchx84.Flatseal
 ```
 
 ### fstab
