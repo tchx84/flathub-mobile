@@ -40,7 +40,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |[org.gnome.SoundRecorder](https://flathub.org/apps/details/org.gnome.SoundRecorder)|Audio| | |
 |[com.github.Johnn3y.Forklift](https://flathub.org/apps/details/com.github.Johnn3y.Forklift)|Video| | |
 |[org.gnome.gitlab.YaLTeR.VideoTrimmer](https://flathub.org/apps/details/org.gnome.gitlab.YaLTeR.VideoTrimmer)|Video|Won't show file chooser|Works with GtkFileChooser downstream patches|
-|[net.baseart.Glide](https://flathub.org/apps/details/net.baseart.Glide)|Video|Won't fit in screen| |
+|[io.github.celluloid_player.Celluloid](https://flathub.org/apps/details/io.github.celluloid_player.Celluloid)|Video| | |
 |[org.gnome.Cheese](https://flathub.org/apps/details/org.gnome.Cheese)|Video|Won't fit in screen|Reduce controls min-width|
 |[org.gabmus.notorious](https://flathub.org/apps/details/org.gabmus.notorious)|Utilities| | |
 |[com.uploadedlobster.peek](https://flathub.org/apps/details/com.uploadedlobster.peek)|Utilities|Won't fit in screen|Port to GtkFileChooserNative|
@@ -77,7 +77,7 @@ Given a refurbished [Moto G4 Play](https://www.gsmarena.com/motorola_moto_g4_pla
 |Adopter|Interact with developers and help testing applications|YES|Epiphany Fractal Notorious Flatseal| | |
 |Enthusiast|Situational use and help promote the vision|YES|GFeeds Lollypop Shortwave Podcasts| |These applications are great examples|
 |Regular|Personal use for basic tasks|NO|Portfolio Clocks Calculator Contacts SoundRecorder Screenshot|Documents Cheese Calendar| |
-|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird Authenticator Maps Usage Teleport|Geary Evince EoG Glide Flashlight Tangram Tootle Weather Peek Fragments VideoTrimmer| |
+|Daily|Personal use for all tasks|NO|Organizer Forklift Cawbird Authenticator Maps Usage Teleport Celluloid|Geary Evince EoG Flashlight Tangram Tootle Weather Peek Fragments VideoTrimmer| |
 
 NOTE: Each workflow requires the previous workflow to be supported.
 
